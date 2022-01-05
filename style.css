@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+.container .box_1,.box_2{
+    margin-top: 50px;
+}
+.container ul li{
+    list-style: none;
+    margin-top: 20px;
+}
+.container ul li a{
+    text-decoration: none;
+}
