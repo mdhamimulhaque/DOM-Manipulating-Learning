@@ -41,10 +41,10 @@
 
 //-----> among children(siblings)<------
 //---> next element sibling <---
-const childOne = document.querySelector(".item");
-const childRTwo = childOne.nextElementSibling;
-childRTwo.style.color = "skyblue";
-console.log(childRTwo);
+// const childOne = document.querySelector(".item");
+// const childRTwo = childOne.nextElementSibling;
+// childRTwo.style.color = "skyblue";
+// console.log(childRTwo);
 
 //---> previous element sibling <---
 // const childRTwo = document.querySelector(".item").nextElementSibling;
